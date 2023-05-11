@@ -56,7 +56,7 @@
             <plugin>
                 <groupId>com.github.github</groupId>
                 <artifactId>site-maven-plugin</artifactId>
-                <version>0.11</version>
+                <version>0.12</version>
                 <configuration>
                     <message>Deploy AvN-Reputation artifacts for ${project.version}</message>
                     <noJekyll>true</noJekyll>
